@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8a1b6ca2f1221109cef5e492799b607" label="sales-data" max_length="40" name="x_799995_sales_sales_data" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element label="Customer ID" max_length="40" name="customer_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Name" max_length="40" name="customer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Segment" max_length="40" name="customer_segment" type="string"/>
+        <element label="Discount" max_length="15" name="discount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Order Date" max_length="40" name="order_date" type="glide_date"/>
+        <element label="Order ID" max_length="40" name="order_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Order Priority" max_length="40" name="order_priority" type="string"/>
+        <element label="Postal Code" max_length="40" name="postal_code" type="integer"/>
+        <element label="Product Base Margin" max_length="15" name="product_base_margin" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Category" max_length="40" name="product_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Container" max_length="40" name="product_container" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Name" max_length="98" name="product_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Sub-Category" max_length="40" name="product_sub_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Profit" max_length="40" name="profit" type="string"/>
+        <element label="Quantity ordered new" max_length="40" name="quantity_ordered_new" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="region" type="string"/>
+        <element label="Row ID" max_length="40" name="row_id" type="integer"/>
+        <element label="Sales" max_length="15" name="sales" type="decimal"/>
+        <element label="Shipping Cost" max_length="15" name="shipping_cost" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Ship Date" max_length="40" name="ship_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Ship Mode" max_length="40" name="ship_mode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State or Province" max_length="40" name="state_or_province" type="string"/>
+        <element label="Unit Price" max_length="15" name="unit_price" type="decimal"/>
+    </element>
+</database>

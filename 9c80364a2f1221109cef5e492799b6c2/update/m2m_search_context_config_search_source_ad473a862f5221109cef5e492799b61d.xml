@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="sales2 - Workspace Search">7e377686935221109e6365ac7ffe018b</search_context_config>
+        <source display_value="sales2 - x_799995_sales_sales_data2">cd47f6862f5221109cef5e492799b684</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 02:55:14</sys_created_on>
+        <sys_id>ad473a862f5221109cef5e492799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="sales" source="x_799995_sales">9c80364a2f1221109cef5e492799b6c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sales">9c80364a2f1221109cef5e492799b6c2</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_ad473a862f5221109cef5e492799b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 02:55:14</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

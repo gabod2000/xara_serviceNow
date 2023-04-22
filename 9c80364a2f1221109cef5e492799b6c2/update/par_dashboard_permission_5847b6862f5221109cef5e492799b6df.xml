@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="sales2">3e377686a9522110283ba40f14159e6d</dashboard>
+        <group/>
+        <role display_value="x_799995_sales.user" name="x_799995_sales.user">dc80364a2f1221109cef5e492799b6f2</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 02:55:09</sys_created_on>
+        <sys_id>5847b6862f5221109cef5e492799b6df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e377686a9522110283ba40f14159e6d</sys_name>
+        <sys_package display_value="sales" source="x_799995_sales">9c80364a2f1221109cef5e492799b6c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sales">9c80364a2f1221109cef5e492799b6c2</sys_scope>
+        <sys_update_name>par_dashboard_permission_5847b6862f5221109cef5e492799b6df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 02:55:09</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

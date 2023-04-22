@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5f1f60e2f1221109cef5e492799b69b" label="sales-data2" max_length="40" name="x_799995_sales_sales_data2" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="region" type="string"/>
+    </element>
+</database>

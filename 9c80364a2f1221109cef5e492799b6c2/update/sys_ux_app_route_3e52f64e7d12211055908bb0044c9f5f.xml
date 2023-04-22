@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="sales Config">6e52b64e2f1221109cef5e492799b6f8</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>300</order>
+        <parent_macroponent display_value="Record Page(task)">3252f64eb31221104f0341f80f4c0460</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_attachment</route_type>
+        <screen_type display_value="Attachments">fa52f64eae1221100dc68d2da7f61a5f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-21 02:33:52</sys_created_on>
+        <sys_id>3e52f64e7d12211055908bb0044c9f5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="sales" source="x_799995_sales">9c80364a2f1221109cef5e492799b6c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sales">9c80364a2f1221109cef5e492799b6c2</sys_scope>
+        <sys_update_name>sys_ux_app_route_3e52f64e7d12211055908bb0044c9f5f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-21 02:33:52</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e52f64e7d12211055908bb0044c9f5f"/>
+</record_update>

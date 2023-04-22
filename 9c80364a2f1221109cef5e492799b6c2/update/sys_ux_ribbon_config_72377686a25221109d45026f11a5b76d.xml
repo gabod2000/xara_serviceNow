@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>sales2 Ribbon Config</description>
+        <name>sales2 Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 02:55:05</sys_created_on>
+        <sys_id>72377686a25221109d45026f11a5b76d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sales2 Ribbon Config</sys_name>
+        <sys_package display_value="sales" source="x_799995_sales">9c80364a2f1221109cef5e492799b6c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sales">9c80364a2f1221109cef5e492799b6c2</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_72377686a25221109d45026f11a5b76d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 02:55:05</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

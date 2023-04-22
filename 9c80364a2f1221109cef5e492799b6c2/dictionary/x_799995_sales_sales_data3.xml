@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e8227e0e2f1221109cef5e492799b6cf" label="sales-data3" max_length="40" name="x_799995_sales_sales_data3" text_index="true" type="collection">
+        <element label="Order ID" max_length="40" name="order_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>
